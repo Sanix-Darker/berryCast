@@ -23,6 +23,12 @@ You just have to run
 Some screens when i was testing it.
 <table>
     <tr>
+        <td colspan="2">
+            My Raspberry pi 4 (NEON)
+            <img src="./img/rasp.jpg">
+        </td>
+    </tr>
+    <tr>
         <td>Gaming...<img src="./img/rendu1.jpg"/></td>
         <td>Gaming...<img src="./img/rendu2.jpg"/></td>
     </tr>
