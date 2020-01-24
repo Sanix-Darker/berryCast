@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "description": "Cast your mobile screen on a HDMI Screen with one command line",
   "main": "main.js",
-  "repository": "https://github.com/CodeDraken/electron-file-metadata",
+  "repository": "https://github.com/sanix-darker/berryCast",
   "scripts": {
     "start": "electron ."
   },
   "keywords": [
     "electron"
   ],
-  "author": "CodeDraken",
+  "author": "Sanix-darker",
   "license": "MIT",
   "devDependencies": {
     "electron": "^3.0.4",
