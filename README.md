@@ -3,6 +3,7 @@
 <center><img src="./img/b1.png"></center>
 
 Stream your mobile on your HDMI Screen using a raspberry pi using WIFI !
+
 **The code is toooooooooooooooooooooooo Simple, LMAO!**
 
 <br>
@@ -16,7 +17,22 @@ Stream your mobile on your HDMI Screen using a raspberry pi using WIFI !
 
 ## How to start it
 
-You just have to run
+You just have to run:
+```shell
+# clone it in your raspberry pi
+git clone https://github.com/sanix-darker/berrycast
+
+# Do a cd to the project
+cd path/to/the/project
+
+# install dependencies
+yarn install
+# or npm install
+
+# Then you can start it using
+yarn start
+# or npm start
+```
 
 ## Screens of tests
 
